@@ -3,6 +3,7 @@ programa
 	
 	funcao inicio()
 	{
+	
 	//Questão 01
 
 		/*real celsius, farenheit
@@ -100,12 +101,10 @@ programa
 		leia (z)
 		para ( inteiro vitinho = x; vitinho <= y; vitinho += z) {
 		escreva( vitinho + " ") 
-		}*/
-	
-	
-	}
-	
-	
+		}*
+
+
+	}	
 }
 /* $$$ Portugol Studio $$$ 
  * 
