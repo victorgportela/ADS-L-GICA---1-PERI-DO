@@ -4,6 +4,7 @@ programa
 	funcao inicio()
 	{
 		
+		
 		inteiro num1, num2, resultado = 0
 		cadeia op, resposta = "n"
 
@@ -42,6 +43,7 @@ programa
 			} enquanto (resposta == "sim")
 	
 
+	
 	}
 }
 /* $$$ Portugol Studio $$$ 
