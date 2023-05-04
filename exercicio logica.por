@@ -31,9 +31,9 @@ programa
 	
 		escreva ("Qual o seu sexo ? \n")
 		leia (sexo) 
-     	escreva ("Qual a sua altura em centímetros ? \n")
-     	leia (alturacm)
-     	escreva ("Qual seu peso ? \n")
+     		escreva ("Qual a sua altura em centímetros ? \n")
+     		leia (alturacm)
+     		escreva ("Qual seu peso ? \n")
 		leia (peso)
 		
 	
@@ -89,7 +89,9 @@ programa
 		escreva (" Acabou ")*/
 
 	//Questão 08
-     	/*inteiro x, y, z 
+     		
+		/*inteiro x, y, z 
+		
 		escreva (" Um valor incial: \n ")
 		leia (x)
 		escreva (" Um valor final: \n ")
